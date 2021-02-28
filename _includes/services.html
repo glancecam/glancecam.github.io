@@ -1,0 +1,28 @@
+<section class="service-area grey-bg pb-70 pt-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center mb-40">
+                <div class="section-title service-title">
+                    <h2>I nostri prodotti</h2>
+                    <p>La produzione Braga avviene sempre sulla base delle specifiche del Cliente ed include Trasformatori, Autotrasformatori, Reattanze, Induttanze, Equilibratori, Variatori, Elettromagneti per basi vibranti, Cauterizzatori per uso animale e costruzioni speciali.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for service in site.services %}
+            <div class="col-lg-4 col-md-6 text-center mb-30">
+                <div class="features-wrap">
+                    {% if service.icon %}
+                    <div class="features-icon">
+                        <img src="{{service.icon}}" alt="{{service.title}}">
+                    </div>
+                    {% endif %}
+                    <h4>{{service.title}}</h4>
+                    <p>{{service.description}}</p>
+                    <a href="{{service.url}}">Dettagli</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
