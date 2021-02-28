@@ -1,34 +1,20 @@
 #Please use the main menu items under the "text"
 
+# NOT IN USE -Cesare 28/02/2021
+
 - text: Home
   url: /
   
-- text: Azienda
+- text: GlanceCam
   url: #
   
-- text: Prodotti
+- text: Version 3
   url: #
   submenu:
-  - text: Trasformatori di potenza
-    url: #
-  - text: Autotrasformatori per forni
-    url: #
-  - text: Trasformatori per sistemi raddrizzatori
-    url: #
-  - text: Trasformatori trifase per macchinari industriali
-    url: #
-  - text: Trasformatori per impianti fotovoltaici
-    url: #
-  - text: Elettromagneti per basi vibranti
-    url: #
-  - text: Reattanze, induttanze ed impedenze
-    url: #
-  - text: Autotrasformatori variabili (variatori a spazzole)
-    url: #
-  - text: Altri prodotti
+  - text: GlanceCam Pro
     url: #
 
-- text: Contatti
+- text: Contacts
   url: #
 - text: Downloads
   url: #
