@@ -1,0 +1,12 @@
+{
+  "notifications": [
+    {
+      "notificationUUID": "",
+      "date": "20240806"
+      "title": "Important notice about GlanceCam on macOS Sequoia",
+      "description": "Despite my continued efforts throughout the macOS Sequoia beta period, some Users running the betas experience a serious compatibility issue with GlanceCam: they reported that the app launches, but after a few seconds becomes unresponsive and requires to be force-quit.\n\nI am 100% focused on resolving the issue, but the hang appears to be the consequence of a bug introduced by Apple in Sequoia that severely disrupts the OpenGL video engine, so a solution is not directly under my control.\n\nI have promptly reported the bug to Apple and to the open-source team that manages VLCKit, the video engine used by GlanceCam, but at the moment there isn't a solution yet.\n\nIf you rely on GlanceCam, my recommendation is NOT TO INSTALL SEQUOIA until I can report a solution has been found; I appreciate the gravity of such recommendation, but I despite trying everything I could think of and enlisting external help, an issue so deep in the operating system stack can require time to be resolved by Apple and in the meantime I CANNOT PROMISE GLANCECAM WILL WORK reliably.\n\nI am deeply sorry and focused on finding a solution, you can find more informations at the link below, and I will send a new in-app message like this one when a solution is found and is safe to install Sequoia. –Cesare",
+      "link": "https://www.cdf1982.com/glancecam/glancecam-sequoia",
+      "showOnce": true
+    },
+  ]
+}
