@@ -1,7 +1,7 @@
 {
   "GlanceCamOCSMessages": [
     {
-      "notificationUUID": "add8db17-9ebc-45ea-bd60-eafbe10065e9",
+      "notificationUUID": "",
       "date": "20240806",
       "expiresOn": "",
       "title": "GlanceCam on macOS Sequoia compatibility warning",
