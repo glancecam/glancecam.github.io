@@ -1,5 +1,5 @@
 current directory: /Users/cesareforelli/Developer/cdf1982/glancecam.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20241126-22063-1g80xke.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20241127-43861-qexrl5.rb extconf.rb
 creating Makefile
 
 current directory: /Users/cesareforelli/Developer/cdf1982/glancecam.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -465,4 +465,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/4b66fb3c-7dd0-11ef-b
 
 current directory: /Users/cesareforelli/Developer/cdf1982/glancecam.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20241126-22063-p6nptt
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20241127-43861-p699hx
