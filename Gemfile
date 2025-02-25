@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem 'jekyll-tagging'
   gem 'jekyll-archives'
+  gem "jekyll-sitemap"
   gem "webrick"
   
 end
