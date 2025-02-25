@@ -1,18 +1,15 @@
 title: "GlanceCam"
 email: "support@cdf1982.com"
-description: "A native IP camera viewer for Mac, with support for standard protocols and lots of features"
+description: "GlanceCam is a powerful, native IP camera viewer for Mac that supports standard protocols (RTSP, HTTP/MJPEG) and offers features like grids, multiple windows, and full-screen mode."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://glancecam.app" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
-facebook_url: 
-twitter_url: 
-github_url:  
-pinterest_url: 
-linkedin_url: 
-instagram_url: 
+url: "https://glancecam.app"
+author: "Cesare Forelli"
 logo: "/assets/img/logo/logo.png"
 logo_2: "/assets/img/logo/logo.png"
-mailchimp_list: 
-mailchimp_input_name:
+social:
+  name: Cesare Forelli
+  links:
+    - https://iosdev.space/@cdf1982
 
 permalink: "/:title"
 
@@ -24,6 +21,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 cover_image: "/assets/img/bg/page-title.jpg"
 
