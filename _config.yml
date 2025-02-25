@@ -4,12 +4,19 @@ description: "GlanceCam is a powerful, native IP camera viewer for Mac that supp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glancecam.app"
 author: "Cesare Forelli"
+keywords: "ip camera viewer, mac camera app, security camera software, rtsp viewer mac, mjpeg viewer macos, ip camera software mac, mac surveillance software, webcam, cam viewer, cam, stream, hikvision,axis,foscam,d-link,reolink,iot,rtsp,rtmp,vlc,cctv"
 logo: "/assets/img/logo/logo.png"
 logo_2: "/assets/img/logo/logo.png"
 social:
   name: Cesare Forelli
   links:
     - https://iosdev.space/@cdf1982
+
+# App Info
+app_category: "Utilities"
+app_platform: "macOS"
+app_version: "4.4"
+app_release_notes: "https://cdf1982.com/glancecam/glancecam-release-notes"
 
 permalink: "/:title"
 
