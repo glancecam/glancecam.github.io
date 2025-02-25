@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glancecam.app/sitemap.xml
