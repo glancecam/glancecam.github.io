@@ -7,6 +7,40 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% seo %}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "GlanceCam",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "macOS",
+        "description": "The most loved and fully-featured IP camera viewer for Mac",
+        "offers": [
+            {
+                "@type": "Offer",
+                "price": "3.99",
+                "priceCurrency": "USD",
+                "description": "Standard version"
+            },
+            {
+                "@type": "Offer",
+                "price": "9.99",
+                "priceCurrency": "USD",
+                "description": "GlanceCam Pro 1 year subscription"
+            },
+            {
+                "@type": "Offer",
+                "price": "22.99",
+                "priceCurrency": "USD",
+                "description": "Lifetime unlock for GlanceCam Pro"
+            }
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Cesare Forelli"
+        }
+    }
+    </script>
     <!-- Site Title -->
     <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}</title>
 	<link rel="apple-touch-icon" sizes="57x57" href="{{site.baseurl}}/assets/img/apple-icon-57x57.png">
