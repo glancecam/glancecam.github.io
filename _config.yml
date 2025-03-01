@@ -3,6 +3,7 @@ email: "support@cdf1982.com"
 description: "The best IP camera viewer for Mac RTSP streaming. Powerful, native and with more than 620 App Store ratings in 6 years of updates."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glancecam.app"
+enforce_https: true
 author: "Cesare Forelli"
 keywords: "ip camera viewer, mac camera app, security camera software, rtsp viewer mac, mjpeg viewer macos, ip camera software mac, mac surveillance software, webcam, cam viewer, cam, stream, hikvision,axis,foscam,d-link,reolink,iot,rtsp,rtmp,vlc,cctv"
 logo: "/assets/img/logo/logo.png"
